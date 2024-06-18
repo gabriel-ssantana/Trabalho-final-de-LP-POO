@@ -43,7 +43,7 @@ Este é um projeto de implementação de um sistema de vendas em Java, com inter
 
 ## Vídeo de Demonstração 🎥
 
-[![Logomarca da Loja](urbanTrends/videos/UTVideo.mp4)](https://github.com/gabriel-ssantana/Trabalho-final-de-LP-POO/blob/main/urbanTrends/videos/UTVideo.mp4)
+https://github.com/gabriel-ssantana/Trabalho-final-de-LP-POO/tree/main/urbanTrends/videos
 
 ## Diagrama de Classe 🔍
 
