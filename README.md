@@ -43,11 +43,8 @@ Este é um projeto de implementação de um sistema de vendas em Java, com inter
 
 ## Vídeo de Demonstração 🎥
 
-https://github.com/gabriel-ssantana/Trabalho-final-de-LP-POO/tree/main/urbanTrends/videos
+https://github.com/lucas-novaesm/Trabalho-final-de-LP-POO/assets/122632100/bbad5825-63b1-4501-8b3c-fdfe238505e2
 
-## Diagrama de Classe 🔍
-
-[![Logomarca da Loja](urbanTrends/imagens/urbantrends.drawio.png)](https://github.com/gabriel-ssantana/Trabalho-final-de-LP-POO/blob/main/urbanTrends/imagens/urbantrends.drawio.png)
 
 ## Como Rodar o Projeto ▶️:
 
